@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
+        
         System.out.println("piramide de estrellas");
         System.out.println("poner valor numerico");
 
@@ -30,5 +31,5 @@ public class Main {
         }
 
     }
-    
+
 }
